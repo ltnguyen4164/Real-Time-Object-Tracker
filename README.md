@@ -14,11 +14,11 @@ Real-time multi-object tracking system utilizing YOLOv8 for detection and a cust
 # How to Run
 ### First install necessary libraries
 ```
-pip install opencv-python ultralytics numpy
+pip install -r requirements.txt
 ```
 ### Run Python program
 ```
-python camera.py
+python main.py
 ```
 
 # Why I Built This
